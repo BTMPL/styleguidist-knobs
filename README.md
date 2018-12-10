@@ -52,7 +52,7 @@ The first step is wrapping your code in the `KnobsUI` component (available globa
 
 ```diff
 - <Button>Hello world!</Button>
-+ <KnobsUi>
++ <KnobsUI>
 +   {() => <Button>Hello world!</Button>}
 + </KnobsUI>
 ```
