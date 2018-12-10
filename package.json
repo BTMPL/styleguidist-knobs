@@ -1,6 +1,6 @@
 {
   "name": "styleguidist-knobs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A knob addon for react-styleguidist",
   "main": "index.js",
   "files": [
