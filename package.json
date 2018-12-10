@@ -11,8 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "yarn run build"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Bartosz Szczecinski",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.2.0",
     "@babel/core": "^7.2.0",
