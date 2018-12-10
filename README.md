@@ -121,6 +121,14 @@ An array of `PropTypes.text` elements can be generated with this knob. It will p
 array(label, array)
 ```
 
+## Grouping
+
+By default, all labels are grouped into one UI element - this makes it a little hard to manage. To fix that, you can use the `group` function (also provided as part of the render prop!)
+
+```js
+<input value={group('Sub-ui name').text('Input value', '')} />
+```
+
 ## Authors and license
 
 This library was created by [Bartosz Szczeciński](https://github.com/btmpl/).
