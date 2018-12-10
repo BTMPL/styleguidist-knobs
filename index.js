@@ -1,0 +1,1 @@
+module.exports = './addons/knobs/lib/index.js';

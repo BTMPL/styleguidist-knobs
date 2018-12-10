@@ -1,0 +1,23 @@
+{
+  "name": "styleguidist-knobs",
+  "version": "0.1.1",
+  "description": "A knob addon for react-styleguidist",
+  "main": "index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "yarn run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/plugin-proposal-class-properties": "^7.2.1",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-react": "^7.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+global.KnobsUI = require('./KnobsUI').default;
