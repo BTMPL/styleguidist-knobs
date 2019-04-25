@@ -1,1 +1,1 @@
-module.exports = './addons/knobs/lib/index.js';
+module.exports = 'styleguidist-knobs/lib/index.js';
